@@ -1,7 +1,5 @@
 ---
-title: "Poster"
 collection: publications
-permalink: /publication/publications
 ---
 Poster
 =====
