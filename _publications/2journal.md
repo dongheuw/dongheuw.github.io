@@ -3,7 +3,6 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
-
 Journal
 =====
 <b>Understanding the Behavioral Differences Between American and German Users: A Data-Driven Study.</b> <br>
