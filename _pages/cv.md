@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Working on it. :-)
+My CV is [here](https://cxyang1997.github.io/files/CV_ChenxiYang.pdf).
