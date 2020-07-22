@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chenxi Yang"
   avatar           : "profile_cx.png"
-  bio              : "First-year Ph.D. at University of Texas at Austin"
+  bio              : "A Ph.D. Student at University of Texas at Austin"
   location         : "Austin, Texas, U.S."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Y0__56IAAAAJ&hl=en"
-  email            : "cxyang@cs.utexas.edu"
+  email            : "cxyang19@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
