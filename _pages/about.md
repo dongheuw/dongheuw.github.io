@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chenxi Yang, a Ph.D. student at the University of Texas at Austin. I am fortunate to be advised by [Prof. Swarat Chaudhuri](http://www.cs.utexas.edu/~swarat/). Before that, I did my undergraduate at Fudan University, advised by [Prof. Yang Chen](https://chenyang03.wordpress.com/). I visited Peking University as a research assistant, supervised by [Prof. Chenren Xu](http://soar.group/chenren/). 
+I am a Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington, advised by [Prof. Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda). My research interests are in data management systems and data science.
 
-My research interests span the areas of programming language and machine learning. I am interested in building the tools and techniques which help the interpretability and efficiency of program learning. 
+Before UW, I obtained a Bachelor of Science (Honors) in Computer Science at Fudan University in 2019, where I was advised by [Prof. Yang Chen](https://chenyang03.wordpress.com/). I worked with [Prof. Chenren Xu](http://soar.group/chenren/) at Peking University in 2017. I was a former “[OI](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics)er” and “[ACM-ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest)er”. My probably out-of-date CV is available here.
 
