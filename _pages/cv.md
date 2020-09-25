@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-My CV is [here](https://cxyang1997.github.io/files/CV_ChenxiYang.pdf).
