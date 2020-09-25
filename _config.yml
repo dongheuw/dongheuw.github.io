@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chenxi Yang"
+title                    : "Dong He"
 title_separator          : "-"
-name                     : &name "Chenxi Yang"
-description              : &description "personal description"
-url                      : https://cxyang1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dong He"
+description              : &description "Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington"
+url                      : https://dongheuw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cxyang1997/cxyang1997.github.io"
+repository               : "dongheuw/dongheuw.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chenxi Yang"
-  avatar           : "profile_cx.png"
-  bio              : "A Ph.D. Student at University of Texas at Austin"
-  location         : "Austin, Texas, U.S."
+  name             : "Dong He"
+  avatar           : "profile_dong.png"
+  bio              : "Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington"
+  location         : "Seattle, WA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Y0__56IAAAAJ&hl=en"
-  email            : "cxyang19@utexas.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=2FI_ec4AAAAJ&hl=en"
+  email            : "donghe@cs.washington.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cxyang1997"
+  github           : "dongheuw"
   google_plus      :
   keybase          :
   instagram        :
