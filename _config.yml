@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dong He"
 title_separator          : "-"
-name                     : &name "Dong He 何东"
+name                     : &name "Dong He"
 description              : &description "Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington"
 url                      : https://dongheuw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dong He"
+  name             : "Dong He 何东"
   avatar           : "profile_dong.png"
   bio              : "Ph.D. student, University of Washington"
   location         : "Seattle, WA, USA"
