@@ -3,7 +3,10 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
-
+<b>TASM: A Tile-Based Storage Manager for Video Analytics</b> [[arXiv](https://arxiv.org/abs/2006.02958)]<br>
+<i>Maureen Daum, Brandon Haynes, <b>Dong He</b>, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung</i> <br>
+In Submission <br>
+<br>
 <b>Accelerating Mobile Applications at the Network Edge with Software-Programmable FPGAs</b> [[PDF](https://dongheuw.github.io/files/edgefpga-infocom18.pdf)] <br>
 <i>Shuang Jiang, <b>Dong He</b>, Chenxi Yang, Chenren Xu, Guojie Luo, Yang Chen, Yunlu Liu, Jiangwei Jiang</i> <br>
 Proc. of IEEE International Conference on Computer Communications (INFOCOM’18), Honolulu, HI, USA, Apr. 2018 (Acceptance ratio: 309 / 1606=19.24%)<br>
