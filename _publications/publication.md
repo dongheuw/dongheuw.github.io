@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/publications
 ---
 <b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [[Tech Report](https://arxiv.org/abs/2104.02234)] <br>
-<i style="font-size:90%">Dong He, Maureen Daum, Magdalena Balazinska</i> <br>
+<i style="font-size:90%"><b>Dong He</b>, Maureen Daum, Magdalena Balazinska</i> <br>
 In submission <br>
 <br>
 <b>VSS: A Storage System for Video Analytics</b> [[Tech Report](https://arxiv.org/abs/2103.16604)] <br>
