@@ -3,11 +3,11 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
-<b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [[<a style="font-size:90%">Tech Report</a>](https://arxiv.org/abs/2104.02234)] <br>
+<b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [[<a style="font-size:90%">Technical Report</a>](https://arxiv.org/abs/2104.02234)] <br>
 <i style="font-size:90%"><b>Dong He</b>, Maureen Daum, Magdalena Balazinska</i> <br>
 In Submission <br>
 <br>
-<b>VSS: A Storage System for Video Analytics</b> [[<a style="font-size:90%">Tech Report</a>](https://arxiv.org/abs/2103.16604)] <br>
+<b>VSS: A Storage System for Video Analytics</b> [[<a style="font-size:90%">Technical Report</a>](https://arxiv.org/abs/2103.16604)] <br>
 <i style="font-size:90%">Brandon Haynes, Maureen Daum, <b>Dong He</b>, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, Luis Ceze</i> <br>
 SIGMOD 2021 <br>
 <br>
