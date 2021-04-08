@@ -4,10 +4,7 @@ collection: publications
 permalink: /publication/publications
 ---
 
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-
-<b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> <a class="btn btn-primary btn-xs" href="https://arxiv.org/abs/2104.02234" role="button">Technical Report</a> <br>
-<!-- [[<a style="font-size:90%">Technical Report</a>](https://arxiv.org/abs/2104.02234)] <br> -->
+<b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [[<a style="font-size:90%">Technical Report</a>](https://arxiv.org/abs/2104.02234)] <br>
 <i style="font-size:90%"><b>Dong He</b>, Maureen Daum, Magdalena Balazinska</i> <br>
 In Submission <br>
 <br>
