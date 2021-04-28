@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/publications
 ---
 
-<b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [<a href="https://arxiv.org/abs/2104.02234" style="font-size:90%">Technical Report</a>]<br>
+<b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [<a href="https://arxiv.org/abs/2104.02234" style="font-size:90%">Technical Report</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/" style="font-size:90%">Website</a>] [<a href="https://github.com/uwdb/deepeverest" style="font-size:90%">Code</a>]<br>
 <i style="font-size:90%"><b>Dong He</b>, Maureen Daum, Magdalena Balazinska</i><br>
 In Submission <br>
 <br>
-<b>VSS: A Storage System for Video Analytics</b> [<a href="https://db.cs.washington.edu/projects/visualworld/vss.pdf" style="font-size:90%">Paper</a>] [<a href="https://arxiv.org/abs/2103.16604" style="font-size:90%">Technical Report</a>] [<a href="https://db.cs.washington.edu/projects/visualworld/" style="font-size:90%">Website</a>]<br>
+<b>VSS: A Storage System for Video Analytics</b> [<a href="https://db.cs.washington.edu/projects/visualworld/vss.pdf" style="font-size:90%">Paper</a>] [<a href="https://arxiv.org/abs/2103.16604" style="font-size:90%">Technical Report</a>] [<a href="https://db.cs.washington.edu/projects/visualworld/" style="font-size:90%">Website</a>] [<a href="https://github.com/uwdb/tasm" style="font-size:90%">Code</a>]<br><br>
 <i style="font-size:90%">Brandon Haynes, Maureen Daum, <b>Dong He</b>, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, Luis Ceze</i> <br>
 SIGMOD 2021 <br>
 <br>
