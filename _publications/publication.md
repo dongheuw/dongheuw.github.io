@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/publications
 ---
 
-<b>Interactive Video Data Cleaning and Exploration (Vision Paper)</b> <br>
-<i style="font-size:90%">Maureen Daum*, Enhao Zhang*, <b>Dong He</b>, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing</i><br>
+<b>VOCAL: Video Organization and Interactive Compositional AnaLytics (Vision Paper)</b> [<a href="https://db.cs.washington.edu/projects/visualworld/vocal-crc.pdf" style="font-size:90%">Paper</a>] [<a href="https://db.cs.washington.edu/projects/visualworld/" style="font-size:90%">Website</a>]<br>
+<i style="font-size:90%">Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, <b>Dong He</b>, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing</i><br>
 CIDR 2022 <br>
 <br>
 <b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [<a href="https://db.cs.washington.edu/projects/deepeverest/p322-he.pdf" style="font-size:90%">Paper</a>] [<a href="https://arxiv.org/abs/2104.02234" style="font-size:90%">Technical Report</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/" style="font-size:90%">Website</a>] [<a href="https://github.com/uwdb/deepeverest" style="font-size:90%">Code</a>]<br>
