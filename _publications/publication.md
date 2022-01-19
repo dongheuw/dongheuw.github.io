@@ -3,14 +3,13 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
-
+<b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [<a href="http://vldb.org/pvldb/vol15/p98-he.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3485450.3485460" style="font-size:90%">DOI</a>] [<a href="https://arxiv.org/abs/2104.02234" style="font-size:90%">Technical Report</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/" style="font-size:90%">Website</a>] [<a href="https://github.com/uwdb/deepeverest" style="font-size:90%">Code</a>] [<a style="font-size:90%">Talk (coming soon)</a>]<br>
+<i style="font-size:90%"><b>Dong He</b>, Maureen Daum, Walter Cai, Magdalena Balazinska</i><br>
+VLDB 2022 <br>
+<br>
 <b>VOCAL: Video Organization and Interactive Compositional AnaLytics (Vision Paper)</b> [<a href="http://cidrdb.org/cidr2022/papers/p41-daum.pdf" style="font-size:90%">Paper</a>] [<a href="https://db.cs.washington.edu/projects/visualworld/" style="font-size:90%">Website</a>] [<a href="https://youtu.be/b3WXC5zlyBA" style="font-size:90%">Talk</a>]<br>
 <i style="font-size:90%">Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, <b>Dong He</b>, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing</i><br>
 CIDR 2022 <br>
-<br>
-<b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [<a href="http://vldb.org/pvldb/vol15/p98-he.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3485450.3485460" style="font-size:90%">DOI</a>] [<a href="https://arxiv.org/abs/2104.02234" style="font-size:90%">Technical Report</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/" style="font-size:90%">Website</a>] [<a href="https://github.com/uwdb/deepeverest" style="font-size:90%">Code</a>] [Talk (coming soon)]<br>
-<i style="font-size:90%"><b>Dong He</b>, Maureen Daum, Walter Cai, Magdalena Balazinska</i><br>
-VLDB 2022 <br>
 <br>
 <b>VSS: A Storage System for Video Analytics</b> [<a href="https://db.cs.washington.edu/projects/visualworld/vss.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.1145/3448016.3459242" style="font-size:90%">DOI</a>] [<a href="https://arxiv.org/abs/2103.16604" style="font-size:90%">Technical Report</a>] [<a href="https://db.cs.washington.edu/projects/visualworld/" style="font-size:90%">Website</a>] [<a href="https://github.com/BrandonHaynes/vss" style="font-size:90%">Code</a>] [<a href="https://dl.acm.org/doi/abs/10.1145/3448016.3459242" style="font-size:90%">Talk</a>]<br>
 <i style="font-size:90%">Brandon Haynes, Maureen Daum, <b>Dong He</b>, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, Luis Ceze</i> <br>
