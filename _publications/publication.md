@@ -20,7 +20,7 @@ SIGMOD 2021 <br>
 <i style="font-size:90%">Maureen Daum, Brandon Haynes, <b>Dong He</b>, Amrita Mazumdar, Magdalena Balazinska</i><br>
 ICDE 2021 <br>
 <br>
-<b>Accelerating Mobile Applications at the Network Edge with Software-Programmable FPGAs</b> [<a href="https://dongheuw.github.io/files/edgefpga-infocom18.pdf" style="font-size:90%">Paper</a>] [<a href="https://ieeexplore.ieee.org/document/8485850" style="font-size:90%">DOI</a>]<br>
+<b>Accelerating Mobile Applications at the Network Edge with Software-Programmable FPGAs</b> [<a href="https://dongheuw.github.io/files/edgefpga-infocom18.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.1109/INFOCOM.2018.8485850" style="font-size:90%">DOI</a>]<br>
 <i style="font-size:90%">Shuang Jiang, <b>Dong He</b>, Chenxi Yang, Chenren Xu, Guojie Luo, Yang Chen, Yunlu Liu, Jiangwei Jiang</i><br>
 INFOCOM 2018 <br>
 <br>
