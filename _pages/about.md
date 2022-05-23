@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Database Group](https://db.cs.washington.edu/) of the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am fortunate to be advised by [Prof. Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda). My research interests are in data management systems. My current projects focus on designing and building systems that efficiently support machine learning workloads, as well as systems that manage video and image data.
+I am a Ph.D. student in the [Database Group](https://db.cs.washington.edu/) of the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am fortunate to be advised by [Prof. Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda). My research interests are in data management systems. My current projects focus on designing and building systems that efficiently support machine learning workloads, efficient query processing systems, as well as systems that manage video and image data.
 
 Before UW, I obtained a Bachelor of Science (Honors) in Computer Science at Fudan University, where I worked with [Prof. Yang Chen](https://chenyang03.wordpress.com/). I also worked with [Prof. Chenren Xu](http://soar.group/chenren/) at Peking University. When I was younger, I was a contestant of [Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics) and [ACM-ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest). My probably out-of-date CV is available [here](https://dongheuw.github.io/files/CV.pdf).
 
