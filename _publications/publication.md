@@ -3,7 +3,7 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
-<b>Query Processing on Tensor Computation Runtimes</b> [<a href="https://arxiv.org/abs/2203.01877" style="font-size:90%">Preprint</a>] [<a href="https://medium.com/syncedreview/meet-tqp-the-first-query-processor-to-run-on-tensor-computation-runtimes-delivers-up-to-20x-7d1f09d3b9f8" style="font-size:90%">Selected press I</a>] [<a href="https://www.marktechpost.com/2022/03/13/researchers-from-the-university-of-washington-and-uc-san-diego-introduce-tensor-query-processor-tqp-with-tensor-computation-runtimes-for-query-processing-20x-speedup/" style="font-size:90%">Selected press II</a>]<br>
+<b>Query Processing on Tensor Computation Runtimes</b> [<a href="https://arxiv.org/abs/2203.01877" style="font-size:90%">Preprint</a>] [<a href="https://medium.com/syncedreview/meet-tqp-the-first-query-processor-to-run-on-tensor-computation-runtimes-delivers-up-to-20x-7d1f09d3b9f8" style="font-size:90%">Press I</a>] [<a href="https://www.marktechpost.com/2022/03/13/researchers-from-the-university-of-washington-and-uc-san-diego-introduce-tensor-query-processor-tqp-with-tensor-computation-runtimes-for-query-processing-20x-speedup/" style="font-size:90%">Press II</a>]<br>
 <i style="font-size:90%"><b>Dong He</b>, Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, Matteo Interlandi</i><br>
 In revision <br>
 <br>
