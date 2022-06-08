@@ -5,7 +5,7 @@ permalink: /publication/publications
 ---
 <b>Query Processing on Tensor Computation Runtimes</b> [<a href="https://arxiv.org/abs/2203.01877" style="font-size:90%">Preprint</a>]<br>
 <i style="font-size:90%"><b>Dong He</b>, Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, Matteo Interlandi</i><br>
-In Revision <br>
+In revision <br>
 <br>
 <b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [<a href="https://dongheuw.github.io/files/p98-he.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3485450.3485460" style="font-size:90%">DOI</a>] [<a href="https://dblp.org/rec/journals/pvldb/HeDCB21.bib" style="font-size:90%">Bibtex</a>] [<a href="https://arxiv.org/abs/2104.02234" style="font-size:90%">Extended Technical Report</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/" style="font-size:90%">Website</a>] [<a href="https://github.com/uwdb/deepeverest" style="font-size:90%">Code</a>] [<a style="font-size:90%">Talk (coming soon)</a>]<br>
 <i style="font-size:90%"><b>Dong He</b>, Maureen Daum, Walter Cai, Magdalena Balazinska</i><br>
