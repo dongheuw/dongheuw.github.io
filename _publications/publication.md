@@ -3,7 +3,7 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
-<b>Query Processing on Tensor Computation Runtimes</b> [<a href="https://www.vldb.org/pvldb/vol15/p2811-he.pdf" style="font-size:90%">PDF</a>] [<a href="https://medium.com/syncedreview/meet-tqp-the-first-query-processor-to-run-on-tensor-computation-runtimes-delivers-up-to-20x-7d1f09d3b9f8" style="font-size:90%">Press I</a>] [<a href="https://www.marktechpost.com/2022/03/13/researchers-from-the-university-of-washington-and-uc-san-diego-introduce-tensor-query-processor-tqp-with-tensor-computation-runtimes-for-query-processing-20x-speedup/" style="font-size:90%">Press II</a>]<br>
+<b>Query Processing on Tensor Computation Runtimes</b> [<a href="https://www.vldb.org/pvldb/vol15/p2811-he.pdf" style="font-size:90%">PDF</a>] [<a href="https://medium.com/syncedreview/meet-tqp-the-first-query-processor-to-run-on-tensor-computation-runtimes-delivers-up-to-20x-7d1f09d3b9f8" style="font-size:90%">Press I</a>] [<a href="https://www.marktechpost.com/2022/03/13/researchers-from-the-university-of-washington-and-uc-san-diego-introduce-tensor-query-processor-tqp-with-tensor-computation-runtimes-for-query-processing-20x-speedup/" style="font-size:90%">Press II</a>] [<a href="https://youtu.be/BtRSzbJKzgk" style="font-size:90%">Talk</a>]<br>
 <i style="font-size:90%"><b>Dong He</b>, Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, Matteo Interlandi</i><br>
 VLDB 2022 <br>
 <br>
