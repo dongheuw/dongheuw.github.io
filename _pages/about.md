@@ -14,7 +14,7 @@ My primary research focus lies in the intersection of data management systems an
 
 <!-- My current projects focus on designing and building systems that efficiently support machine learning workloads, efficient database engines using machine learning infrastructure, as well as systems that efficiently manage video and image data. -->
 
-Before UW, I obtained a Bachelor of Science (Honors) in Computer Science at Fudan University, where I worked with [Prof. Yang Chen](https://chenyang03.wordpress.com/). I also worked with [Prof. Chenren Xu](http://soar.group/chenren/) at Peking University. When I was younger, I was a contestant of the [Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics) and [ACM-ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest).
+Before UW, I obtained a Bachelor of Science (Honors) in Computer Science at Fudan University, where I worked with [Prof. Yang Chen](https://chenyang03.wordpress.com/). I also worked with [Prof. Chenren Xu](http://soar.group/chenren/) at Peking University. In my younger years, I was a contestant in the [Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics) and [ACM-ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest).
 
 My probably out-of-date CV is available [here](https://dongheuw.github.io/files/DONGHE_CV.pdf).
 
