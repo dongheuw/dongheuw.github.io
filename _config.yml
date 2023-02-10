@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=2FI_ec4AAAAJ&hl=en"
   email            : "donghe@cs.washington.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.semanticscholar.org/author/Dong-He/2064928598"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/dongheuw/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
