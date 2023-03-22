@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Database Group](https://db.cs.washington.edu/) of the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am fortunate to be advised by [Prof. Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda).
+I am a Ph.D. student in the [Database Group](https://db.cs.washington.edu/) of the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am fortunate to be advised by [Prof. Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda). I also work closely with [Prof. Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and [Prof. Alex Ratner](https://ajratner.github.io/).
 
 My primary research focus lies in the intersection of data management systems and machine learning. The massive computational demands of ML have driven significant investment in hardware and software infrastructure; however, data management is becoming a limiting factor for many ML tasks. At the same time, database management system (DBMS) builders are struggling to fully utilize the exciting capabilities of ML infrastructure. My research aims to bring the two worlds together: I develop new data management systems for ML workloads, and I seek to incorporate ML infrastructure into DBMS architectures.
 
