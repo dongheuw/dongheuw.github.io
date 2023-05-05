@@ -3,6 +3,10 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
+<b>MaskSearch: Querying Image Masks at Scale</b> [<a href="https://arxiv.org/pdf/2305.02375.pdf" style="font-size:90%">Preprint</a>]<br>
+<i style="font-size:90%"><b>Dong He</b>, Jieyu Zhang, Maureen Daum, Alexander Ratner, Magdalena Balazinska</i><br>
+Under Review <br>
+<br>
 <b>VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building</b> [<a href="https://arxiv.org/pdf/2303.04068.pdf" style="font-size:90%">Preprint</a>]<br>
 <i style="font-size:90%">Maureen Daum, Enhao Zhang, <b>Dong He</b>, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</i><br>
 Under Review <br>
