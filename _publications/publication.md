@@ -13,7 +13,11 @@ Under Review <br>
 <br>
 <b>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions</b> [<a href="https://arxiv.org/pdf/2301.00929.pdf" style="font-size:90%">Preprint</a>]<br>
 <i style="font-size:90%">Enhao Zhang, Maureen Daum, <b>Dong He</b>, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</i><br>
-Under Review <br>
+VLDB 2023 (To Appear) <br>
+<br>
+<b>EQUI-VOCAL Demonstration: Synthesizing Video Queries from User Interactions</b> <br>
+<i style="font-size:90%">Enhao Zhang, Maureen Daum, <b>Dong He</b>, Manasi Ganti, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</i><br>
+VLDB 2023 Demo Track (To Appear) <br>
 <br>
 <b>Query Processing on Tensor Computation Runtimes</b> [<a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3551793.3551833" style="font-size:90%">DOI</a>] [<a href="https://medium.com/syncedreview/meet-tqp-the-first-query-processor-to-run-on-tensor-computation-runtimes-delivers-up-to-20x-7d1f09d3b9f8" style="font-size:90%">Press I</a>] [<a href="https://www.marktechpost.com/2022/03/13/researchers-from-the-university-of-washington-and-uc-san-diego-introduce-tensor-query-processor-tqp-with-tensor-computation-runtimes-for-query-processing-20x-speedup/" style="font-size:90%">Press II</a>] [<a href="https://youtu.be/BtRSzbJKzgk" style="font-size:90%">Talk</a>]<br>
 <i style="font-size:90%"><b>Dong He</b>, Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, Matteo Interlandi</i><br>
