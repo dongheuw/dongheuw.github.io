@@ -13,23 +13,23 @@ Under Review <br>
 <br>
 <b>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions</b> [<a href="https://arxiv.org/pdf/2301.00929.pdf" style="font-size:90%">Preprint</a>]<br>
 <i style="font-size:90%">Enhao Zhang, Maureen Daum, <b>Dong He</b>, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</i><br>
-VLDB 2023 (To Appear) <br>
+VLDB 2023 (to appear) <br>
 <br>
 <b>EQUI-VOCAL Demonstration: Synthesizing Video Queries from User Interactions</b> <br>
 <i style="font-size:90%">Enhao Zhang, Maureen Daum, <b>Dong He</b>, Manasi Ganti, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</i><br>
-VLDB 2023 Demo Track (To Appear) <br>
+VLDB 2023 Demo Track (to appear) <br>
 <br>
 <b>Query Processing on Tensor Computation Runtimes</b> [<a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3551793.3551833" style="font-size:90%">DOI</a>] [<a href="https://medium.com/syncedreview/meet-tqp-the-first-query-processor-to-run-on-tensor-computation-runtimes-delivers-up-to-20x-7d1f09d3b9f8" style="font-size:90%">Press I</a>] [<a href="https://www.marktechpost.com/2022/03/13/researchers-from-the-university-of-washington-and-uc-san-diego-introduce-tensor-query-processor-tqp-with-tensor-computation-runtimes-for-query-processing-20x-speedup/" style="font-size:90%">Press II</a>] [<a href="https://youtu.be/BtRSzbJKzgk" style="font-size:90%">Talk</a>]<br>
 <i style="font-size:90%"><b>Dong He</b>, Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, Matteo Interlandi</i><br>
 VLDB 2022 <br>
 <br>
-<b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [<a href="https://www.vldb.org/pvldb/vol15/p98-he.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3485450.3485460" style="font-size:90%">DOI</a>] [<a href="https://arxiv.org/abs/2104.02234" style="font-size:90%">Extended Tech Report</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/" style="font-size:90%">Website</a>] [<a href="https://github.com/uwdb/deepeverest" style="font-size:90%">Code</a>] [<a href="https://youtu.be/YAANPB32zX0" style="font-size:90%">Talk</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/deepeverest-preprint.pdf" style="font-size:90%">Preprint</a>]<br>
-<i style="font-size:90%"><b>Dong He</b>, Maureen Daum, Walter Cai, Magdalena Balazinska</i><br>
-VLDB 2022 <br>
-<br>
 <b>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem</b> [<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:90%">Paper</a>]<br>
 <i style="font-size:90%">Yuki Asada<sup>*</sup>, Victor Fu<sup>*</sup>, Apurva Gandhi<sup>*</sup>, Advitya Gemawat<sup>*</sup>, Lihao Zhang<sup>*</sup>, <b>Dong He</b>, Vivek Gupta, Ehi Nosakhare, Dalitso Banda, Rathijit Sen, Matteo Interlandi</i><br>
 VLDB 2022 Demo Track <FONT COLOR="#C3270B">Best Demo Award</FONT> <br>
+<br>
+<b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [<a href="https://www.vldb.org/pvldb/vol15/p98-he.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3485450.3485460" style="font-size:90%">DOI</a>] [<a href="https://arxiv.org/abs/2104.02234" style="font-size:90%">Extended Tech Report</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/" style="font-size:90%">Website</a>] [<a href="https://github.com/uwdb/deepeverest" style="font-size:90%">Code</a>] [<a href="https://youtu.be/YAANPB32zX0" style="font-size:90%">Talk</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/deepeverest-preprint.pdf" style="font-size:90%">Preprint</a>]<br>
+<i style="font-size:90%"><b>Dong He</b>, Maureen Daum, Walter Cai, Magdalena Balazinska</i><br>
+VLDB 2022 <br>
 <br>
 <b>VOCAL: Video Organization and Interactive Compositional AnaLytics</b> [<a href="http://cidrdb.org/cidr2022/papers/p41-daum.pdf" style="font-size:90%">Paper</a>] [<a href="https://db.cs.washington.edu/projects/visualworld/" style="font-size:90%">Website</a>] [<a href="https://youtu.be/b3WXC5zlyBA" style="font-size:90%">Talk</a>]<br>
 <i style="font-size:90%">Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, <b>Dong He</b>, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing</i><br>
