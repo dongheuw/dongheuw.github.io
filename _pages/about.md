@@ -18,7 +18,7 @@ Before UW, I obtained a Bachelor of Science (Honors) in Computer Science at Fuda
 
 My probably out-of-date CV is available [here](https://dongheuw.github.io/files/DONGHE_CV.pdf).
 
-:fire:**NEW**:fire: : **I am graduating in 2024 and open to research and engineering opportunities in industry.** Please feel free to reach out to me if you are interested in my work!
+**I am graduating in 2024 and open to research and engineering opportunities in industry.** Please feel free to reach out to me if you are interested in my work!
 
 <!-- Default Statcounter code for My homepage
 https://dongheuw.github.io/ -->
