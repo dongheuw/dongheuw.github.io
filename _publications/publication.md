@@ -11,11 +11,11 @@ Under Review <br>
 <i style="font-size:90%">Maureen Daum, Enhao Zhang, <b>Dong He</b>, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</i><br>
 VLDB 2024 (to appear) <br>
 <br>
-<b>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions</b> [<a href="https://arxiv.org/pdf/2301.00929.pdf" style="font-size:90%">Preprint</a>]<br>
+<b>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions</b> [<a href="https://www.vldb.org/pvldb/vol16/p2714-zhang.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3611479.3611482" style="font-size:90%">DOI</a>] [<a href="https://arxiv.org/pdf/2301.00929.pdf" style="font-size:90%">Technical Report</a>]<br>
 <i style="font-size:90%">Enhao Zhang, Maureen Daum, <b>Dong He</b>, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</i><br>
 VLDB 2023 <br>
 <br>
-<b>EQUI-VOCAL Demonstration: Synthesizing Video Queries from User Interactions</b> <br>
+<b>EQUI-VOCAL Demonstration: Synthesizing Video Queries from User Interactions</b> [<a href="https://www.vldb.org/pvldb/vol16/p3978-zhang.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3611540.3611600" style="font-size:90%">DOI</a>]<br>
 <i style="font-size:90%">Enhao Zhang, Maureen Daum, <b>Dong He</b>, Manasi Ganti, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</i><br>
 VLDB 2023 Demo Track <br>
 <br>
@@ -23,7 +23,7 @@ VLDB 2023 Demo Track <br>
 <i style="font-size:90%"><b>Dong He</b>, Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, Matteo Interlandi</i><br>
 VLDB 2022 <br>
 <br>
-<b>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem</b> [<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:90%">Paper</a>]<br>
+<b>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem</b> [<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3554821.3554853" style="font-size:90%">DOI</a>]<br>
 <i style="font-size:90%">Yuki Asada<sup>*</sup>, Victor Fu<sup>*</sup>, Apurva Gandhi<sup>*</sup>, Advitya Gemawat<sup>*</sup>, Lihao Zhang<sup>*</sup>, <b>Dong He</b>, Vivek Gupta, Ehi Nosakhare, Dalitso Banda, Rathijit Sen, Matteo Interlandi</i><br>
 VLDB 2022 Demo Track <FONT COLOR="#C3270B">Best Demo Award</FONT> <br>
 <br>
