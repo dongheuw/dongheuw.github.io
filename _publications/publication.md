@@ -15,7 +15,7 @@ VLDB 2024 (to appear) <br>
 <i style="font-size:90%">Enhao Zhang, Maureen Daum, <b>Dong He</b>, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</i><br>
 VLDB 2023 <br>
 <br>
-<b>EQUI-VOCAL Demonstration: Synthesizing Video Queries from User Interactions</b> [<a href="https://www.vldb.org/pvldb/vol16/p3978-zhang.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3611540.3611600" style="font-size:90%">DOI</a>]<br>
+<b>EQUI-VOCAL Demonstration: Synthesizing Video Queries from User Interactions</b> [<a href="https://www.vldb.org/pvldb/vol16/p3978-zhang.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3611540.3611600" style="font-size:90%">DOI</a>] [<span style="font-size:90%">Demo of</span> <a href="https://www.vldb.org/pvldb/vol16/p2714-zhang.pdf" style="font-size:90%; font-style:italic">EQUI-VOCAL</a>]<br>
 <i style="font-size:90%">Enhao Zhang, Maureen Daum, <b>Dong He</b>, Manasi Ganti, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</i><br>
 VLDB 2023 Demo Track <br>
 <br>
