@@ -24,9 +24,9 @@ VLDB 2023 Demo Track <br>
 <!-- [<a href="https://medium.com/syncedreview/meet-tqp-the-first-query-processor-to-run-on-tensor-computation-runtimes-delivers-up-to-20x-7d1f09d3b9f8" style="font-size:90%">Press I</a>]  -->
 VLDB 2022 <br>
 <br>
-<b>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem</b> [<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3554821.3554853" style="font-size:90%">DOI</a>]<br>
+<b>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem</b> [<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3554821.3554853" style="font-size:90%">DOI</a>] [<a style="font-size:90%">Demo of</a> <a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:90% font-style:italic">Query Processing on Tensor Computation Runtimes</a>]<br>
 <i style="font-size:90%">Yuki Asada<sup>*</sup>, Victor Fu<sup>*</sup>, Apurva Gandhi<sup>*</sup>, Advitya Gemawat<sup>*</sup>, Lihao Zhang<sup>*</sup>, <b>Dong He</b>, Vivek Gupta, Ehi Nosakhare, Dalitso Banda, Rathijit Sen, Matteo Interlandi</i><br>
-VLDB 2022 Demo Track <FONT COLOR="#C3270B">Best Demo Award</FONT> <br>
+VLDB 2022 Demo Track <FONT COLOR="#C3270B">Best Demonstration Award</FONT> <br>
 <br>
 <b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b> [<a href="https://www.vldb.org/pvldb/vol15/p98-he.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3485450.3485460" style="font-size:90%">DOI</a>] [<a href="https://arxiv.org/abs/2104.02234" style="font-size:90%">Extended Tech Report</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/" style="font-size:90%">Website</a>] [<a href="https://github.com/uwdb/deepeverest" style="font-size:90%">Code</a>] [<a href="https://youtu.be/YAANPB32zX0" style="font-size:90%">Talk</a>] [<a href="https://db.cs.washington.edu/projects/deepeverest/deepeverest-preprint.pdf" style="font-size:90%">Preprint</a>]<br>
 <i style="font-size:90%"><b>Dong He</b>, Maureen Daum, Walter Cai, Magdalena Balazinska</i><br>
