@@ -24,7 +24,7 @@ VLDB 2023 Demo Track <br>
 <!-- [<a href="https://medium.com/syncedreview/meet-tqp-the-first-query-processor-to-run-on-tensor-computation-runtimes-delivers-up-to-20x-7d1f09d3b9f8" style="font-size:90%">Press I</a>]  -->
 VLDB 2022 <br>
 <br>
-<b>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem</b> [<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3554821.3554853" style="font-size:90%">DOI</a>] [<a style="font-size:90%">Demo of</a> <a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:90% font-style:italic">Query Processing on Tensor Computation Runtimes</a>]<br>
+<b>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem</b> [<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3554821.3554853" style="font-size:90%">DOI</a>] [<span style="font-size:90%">Demo of</span> <a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:90%; font-style:italic">Query Processing on Tensor Computation Runtimes</a>]<br>
 <i style="font-size:90%">Yuki Asada<sup>*</sup>, Victor Fu<sup>*</sup>, Apurva Gandhi<sup>*</sup>, Advitya Gemawat<sup>*</sup>, Lihao Zhang<sup>*</sup>, <b>Dong He</b>, Vivek Gupta, Ehi Nosakhare, Dalitso Banda, Rathijit Sen, Matteo Interlandi</i><br>
 VLDB 2022 Demo Track <FONT COLOR="#C3270B">Best Demonstration Award</FONT> <br>
 <br>
