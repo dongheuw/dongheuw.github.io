@@ -14,7 +14,7 @@ My research focuses on the intersection of data management systems and machine l
 
 Before UW, I obtained my B.S. (Honors) in Computer Science at Fudan University. In my younger years, I was a contestant in [Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics) and [ACM-ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest).
 
-My probably out-of-date (but hopefully reasonably up-to-date) CV is available [here](https://dongheuw.github.io/files/DONGHE_CV_research.pdf).
+My probably out-of-date (but hopefully reasonably up-to-date) CV is available [here](https://dongheuw.github.io/files/DONGHE_CV.pdf).
 
 **I am graduating in 2024 and open to research and engineering opportunities in industry.** Please reach out to me if you are interested in working with me!
 
