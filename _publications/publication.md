@@ -31,7 +31,7 @@ permalink: /publication/publications
 <br>
 <b>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem</b><br>
 <i style="font-size:90%">Yuki Asada*, Victor Fu*, Apurva Gandhi*, Advitya Gemawat*, Lihao Zhang*, <b>Dong He</b>, Vivek Gupta, Ehi Nosakhare, Dalitso Banda, Rathijit Sen, Matteo Interlandi</i><br>
-<span style="font-size:90%">VLDB 2022, Demo Track</span> <FONT color="red">Best Demo Award</FONT><br>
+<span style="font-size:90%">VLDB 2022, Demo Track</span> <FONT color="red">Best Demonstration Award</FONT><br>
 [<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:90%">Paper</a>] [<a href="https://doi.org/10.14778/3554821.3554853" style="font-size:90%">DOI</a>] [<span style="font-size:90%">Demo of</span> <a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:90%">Query Processing on Tensor Computation Runtimes</a>]<br>
 <br>
 <b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b><br>
