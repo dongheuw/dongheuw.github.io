@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student in Computer Science in the [Database Group](https://db.cs.washington.edu/) of the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am very fortunate to be advised by [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda).
+I am a final-year PhD student in Computer Science in the <a href="https://db.cs.washington.edu/" style="color: #4B2E83; text-decoration: none;">Database Group</a> of the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am very fortunate to be advised by [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda).
+
+<!-- I am a final-year PhD student in Computer Science in the [Database Group](https://db.cs.washington.edu/) of the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am very fortunate to be advised by [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda). -->
 
 My research focuses on the intersection of data management systems and machine learning. As machine learning continues to place immense computational demands, substantial investments have been made in both hardware and software infrastructure. Nevertheless, data management is increasingly becoming a bottleneck for numerous machine learning tasks. At the same time, DBMS builders are struggling to effectively leverage the exciting capabilities offered by machine learning infrastructure. My research aims to bring the two worlds together by designing novel **data management systems for ML workloads** (e.g., [NeuralArtifactDB](https://db.cs.washington.edu/projects/neuralartifactdb/)) and **incorporating ML infrastructure into DBMS architectures** (e.g., [Tensor Query Processing](https://www.vldb.org/pvldb/vol15/p2811-he.pdf) and its [demo](https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf) which received the Best Demo Award at VLDB'22).
 
