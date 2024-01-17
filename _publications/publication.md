@@ -7,11 +7,11 @@ permalink: /publication/publications
 - <a href="https://arxiv.org/pdf/2305.02375.pdf" style="color: #4B2E83; text-decoration: none;">MaskSearch: Querying Image Masks at Scale</a>
 <span style="font-size:90%"><b>Dong He</b>, Jieyu Zhang, Maureen Daum, Alexander Ratner, Magdalena Balazinska</span>
 <span style="font-size:90%">Under Review</span>
-[<a href="https://db.cs.washington.edu/projects/neuralartifactdb/" style="font-size:90%; color: #4B2E83; text-decoration: none;">Website</a>] [<a href="https://github.com/uwdb/MaskSearch" style="font-size:90%; color: #4B2E83; text-decoration: none;"></i>Code</a>]
+[<a href="https://db.cs.washington.edu/projects/neuralartifactdb/" style="font-size:90%; color: #4B2E83; text-decoration: none;">Website</a>] [<a href="https://github.com/uwdb/MaskSearch" style="font-size:90%; color: #4B2E83; text-decoration: none;">Code</a>]
 
 - <a href="https://www.vldb.org/pvldb/vol16/p4188-daum.pdf" style="color: #4B2E83; text-decoration: none;">VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building</a>
 <span style="font-size:90%">Maureen Daum, Enhao Zhang, <b>Dong He</b>, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska</span>
-<span style="font-size:90%">VLDB 2024 (to appear)</span>
+<span style="font-size:90%">VLDB 2024</span>
 [<a href="https://db.cs.washington.edu/projects/visualworld/" style="font-size:90%; color: #4B2E83; text-decoration: none;">Website</a>] [<a href="https://github.com/uwdb/VOCALExplore" style="font-size:90%; color: #4B2E83; text-decoration: none;">Code</a>]
 
 - <a href="https://www.vldb.org/pvldb/vol16/p2714-zhang.pdf" style="color: #4B2E83; text-decoration: none;">EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions</a>
