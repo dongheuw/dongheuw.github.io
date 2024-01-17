@@ -6,7 +6,7 @@ permalink: /publication/publications
 
 <b>MaskSearch: Querying Image Masks at Scale</b><br>
 <i style="font-size:90%"><b>Dong He</b>, Jieyu Zhang, Maureen Daum, Alexander Ratner, Magdalena Balazinska</i><br>
-Under Review<br>
+<span style="font-size:90%">Under Review</span><br>
 [<a href="https://arxiv.org/pdf/2305.02375.pdf" style="font-size:90%">Preprint</a>] [<a href="https://db.cs.washington.edu/projects/neuralartifactdb/" style="font-size:90%">Website</a>] [<a href="https://github.com/uwdb/MaskSearch" style="font-size:90%">Code</a>]<br>
 <br>
 <b>VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building</b><br>
