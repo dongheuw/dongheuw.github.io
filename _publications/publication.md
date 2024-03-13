@@ -31,12 +31,12 @@ permalink: /publication/publications
 <br>
 <b>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem</b><br>
 <i style="font-size:95%">Yuki Asada*, Victor Fu*, Apurva Gandhi*, Advitya Gemawat*, Lihao Zhang*, <b>Dong He</b>, Vivek Gupta, Ehi Nosakhare, Dalitso Banda, Rathijit Sen, Matteo Interlandi</i><br>
-<span style="font-size:95%">Proceedings of the VLDB Endowment, 15(12), 2022</span> <FONT color="red">Best Demonstration Award</FONT><br>
+<span style="font-size:95%">Proceedings of the VLDB Endowment, 15(12), 2022</span> <a href="https://vldb.org/2022/?conference-awards" style="color: #FF0000; text-decoration: none;">Best Demonstration Award</a><br>
 [<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:95%">Paper</a>] [<a href="https://doi.org/10.14778/3554821.3554853" style="font-size:95%">DOI</a>] [<span style="font-size:95%">Demo of</span> <a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:95%">Query Processing on Tensor Computation Runtimes</a>]<br>
 <br>
 <b>VOCAL: Video Organization and Interactive Compositional AnaLytics</b><br>
 <i style="font-size:95%">Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, <b>Dong He</b>, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing</i><br>
-<span style="font-size:95%">12th Annual Conference on Innovative Data Systems Research (CIDR '22)</span><br>
+<span style="font-size:95%">12th Annual Conference on Innovative Data Systems Research (CIDR '22)</span> <a href="https://www.madrona.com/and-the-madrona-prize-goes-to-vocal/" style="color: #FF0000; text-decoration: none;">2022 Madrona Prize Winner</a><br>
 [<a href="http://cidrdb.org/cidr2022/papers/p41-daum.pdf" style="font-size:95%">Paper</a>] [<a href="https://db.cs.washington.edu/projects/visualworld/" style="font-size:95%">Website</a>] [<a href="https://youtu.be/b3WXC5zlyBA" style="font-size:95%">Talk</a>]<br>
 <br>
 <b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b><br>
