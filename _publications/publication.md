@@ -36,7 +36,7 @@ permalink: /publication/publications
 <br>
 <b>VOCAL: Video Organization and Interactive Compositional AnaLytics</b><br>
 <i style="font-size:95%">Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, <b>Dong He</b>, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing</i><br>
-<span style="font-size:95%">12th Annual Conference on Innovative Data Systems Research (CIDR '22)</span> <a href="https://www.madrona.com/and-the-madrona-prize-goes-to-vocal/" style="color: #FF0000; text-decoration: none;">2022 Madrona Prize Winner</a><br>
+<span style="font-size:95%">12th Annual Conference on Innovative Data Systems Research (CIDR '22)</span> <a href="https://www.madrona.com/and-the-madrona-prize-goes-to-vocal/" style="color: #FF0000; text-decoration: none;">Madrona Prize Winner</a><br>
 [<a href="http://cidrdb.org/cidr2022/papers/p41-daum.pdf" style="font-size:95%">Paper</a>] [<a href="https://db.cs.washington.edu/projects/visualworld/" style="font-size:95%">Website</a>] [<a href="https://youtu.be/b3WXC5zlyBA" style="font-size:95%">Talk</a>]<br>
 <br>
 <b>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation</b><br>
