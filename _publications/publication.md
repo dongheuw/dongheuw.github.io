@@ -4,6 +4,11 @@ collection: publications
 permalink: /publication/publications
 ---
 
+<b>Demonstration of MaskSearch: Efficiently Querying Image Masks for Machine Learning Workflows</b><br>
+<i style="font-size:95%">Lindsey Linxi Wei*, Chung Yik Edward Yeung*, Hongjian Yu*, Jingchuan Zhou*, <b>Dong He</b>, Magdalena Balazinska</i><br>
+<span style="font-size:95%">Proceedings of the VLDB Endowment, 17, 2024 (to appear)</span><br>
+[<a href="https://arxiv.org/pdf/2404.06563.pdf" style="font-size:95%">Preprint</a>] [<span style="font-size:95%">Demo of</span> <a href="https://arxiv.org/pdf/2305.02375.pdf" style="font-size:95%">MaskSearch</a>]<br>
+<br>
 <b>MaskSearch: Querying Image Masks at Scale</b><br>
 <i style="font-size:95%"><b>Dong He</b>, Jieyu Zhang, Maureen Daum, Alexander Ratner, Magdalena Balazinska</i><br>
 <span style="font-size:95%">Under Review</span><br>
@@ -27,12 +32,12 @@ permalink: /publication/publications
 <b>Query Processing on Tensor Computation Runtimes</b><br>
 <i style="font-size:95%"><b>Dong He</b>, Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, Matteo Interlandi</i><br> 
 <span style="font-size:95%">Proceedings of the VLDB Endowment, 15(11), 2022</span><br>
-[<a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:95%">Paper</a>] [<a href="https://doi.org/10.14778/3551793.3551833" style="font-size:95%">DOI</a>] [<a href="https://youtu.be/BtRSzbJKzgk" style="font-size:95%">VLDB Talk</a>] [<a href="https://youtu.be/sgIBC3yWa-M?si=DSuiL4p6z0xSlUMM&t=1185" style="font-size:95%">Featured by Azure CTO</a>] [<a href="https://www.marktechpost.com/2022/03/13/researchers-from-the-university-of-washington-and-uc-san-diego-introduce-tensor-query-processor-tqp-with-tensor-computation-runtimes-for-query-processing-20x-speedup/" style="font-size:95%">MarkTechPost</a>] [<a href="https://medium.com/syncedreview/meet-tqp-the-first-query-processor-to-run-on-tensor-computation-runtimes-delivers-up-to-20x-7d1f09d3b9f8" style="font-size:95%">Synced Review</a>]<br>
+[<a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:95%">Paper</a>] [<a href="https://doi.org/10.14778/3551793.3551833" style="font-size:95%">DOI</a>] [<a href="https://youtu.be/BtRSzbJKzgk" style="font-size:95%">VLDB Talk</a>] [<a href="https://youtu.be/sgIBC3yWa-M?si=DSuiL4p6z0xSlUMM&t=1185" style="font-size:95%">TQP Featured by Azure CTO</a>] [<a href="https://www.marktechpost.com/2022/03/13/researchers-from-the-university-of-washington-and-uc-san-diego-introduce-tensor-query-processor-tqp-with-tensor-computation-runtimes-for-query-processing-20x-speedup/" style="font-size:95%">MarkTechPost</a>] [<a href="https://medium.com/syncedreview/meet-tqp-the-first-query-processor-to-run-on-tensor-computation-runtimes-delivers-up-to-20x-7d1f09d3b9f8" style="font-size:95%">Synced Review</a>]<br>
 <br>
 <b>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem</b><br>
 <i style="font-size:95%">Yuki Asada*, Victor Fu*, Apurva Gandhi*, Advitya Gemawat*, Lihao Zhang*, <b>Dong He</b>, Vivek Gupta, Ehi Nosakhare, Dalitso Banda, Rathijit Sen, Matteo Interlandi</i><br>
 <span style="font-size:95%">Proceedings of the VLDB Endowment, 15(12), 2022</span> <a href="https://vldb.org/2022/?conference-awards" style="color: #FF0000; text-decoration: none;">Best Demonstration Award</a><br>
-[<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:95%">Paper</a>] [<a href="https://doi.org/10.14778/3554821.3554853" style="font-size:95%">DOI</a>] [<span style="font-size:95%">Demo of</span> <a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:95%">Query Processing on Tensor Computation Runtimes</a>]<br>
+[<a href="https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf" style="font-size:95%">Paper</a>] [<a href="https://doi.org/10.14778/3554821.3554853" style="font-size:95%">DOI</a>] [<span style="font-size:95%">Demo of</span> <a href="https://dongheuw.github.io/files/tqp-vldb22.pdf" style="font-size:95%">Tensor Query Processor</a>]<br>
 <br>
 <b>VOCAL: Video Organization and Interactive Compositional AnaLytics</b><br>
 <i style="font-size:95%">Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, <b>Dong He</b>, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing</i><br>
