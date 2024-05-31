@@ -63,8 +63,8 @@ permalink: /publication/publications
 <i style="font-size:95%">Shuang Jiang, <b>Dong He</b>, Chenxi Yang, Chenren Xu, Guojie Luo, Yang Chen, Yunlu Liu, Jiangwei Jiang</i><br>
 <span style="font-size:95%">IEEE INFOCOM 2018 - IEEE Conference on Computer Communications</span><br>
 [<a href="https://dongheuw.github.io/files/edgefpga-infocom18.pdf" style="font-size:95%">Paper</a>] [<a href="https://doi.org/10.1109/INFOCOM.2018.8485850" style="font-size:95%">DOI</a>]<br>
-<br>
+<!-- <br>
 <b>Incorporating Location Based Social Networks in the Prediction of Real-Time Taxi Demand with Deep Learning</b><br>
 <i style="font-size:95%"><b>Dong He</b>, Yang Chen</i><br>
 <span style="font-size:95%">CoNEXT 2018, Poster Session</span><br>
-[<a href="https://dongheuw.github.io/files/taxi-conext18.pdf" style="font-size:95%">Poster</a>]<br>
+[<a href="https://dongheuw.github.io/files/taxi-conext18.pdf" style="font-size:95%">Poster</a>]<br> -->
