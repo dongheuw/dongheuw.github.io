@@ -18,7 +18,7 @@ Before UW, I obtained my B.S. (Honors) in Computer Science at Fudan University. 
 
 My reasonably up-to-date CV is available <a href="https://dongheuw.github.io/files/DONGHE_CV.pdf" style="color: #4B2E83; text-decoration: none;">here</a>.
 
-Besides research, I enjoy skiing, tennis, hiking, snorkeling, surfing, and poker, all with my lovely girlfriend <a href="https://chenxi-yang.github.io/" style="color: #4B2E83; text-decoration: none;">Chenxi</a>.
+<!-- Besides research, I enjoy skiing, tennis, hiking, snorkeling, surfing, and poker, all with my lovely girlfriend <a href="https://chenxi-yang.github.io/" style="color: #4B2E83; text-decoration: none;">Chenxi</a>. -->
 
 
 <!-- Default Statcounter code for My homepage
