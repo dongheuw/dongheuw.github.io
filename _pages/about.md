@@ -14,9 +14,11 @@ My research focuses on the intersection of data management and AI. Data-driven A
 
 During my PhD, I interned at <a href="https://www.microsoft.com/en-us/research/group/gray-systems-lab/" style="color: #4B2E83; text-decoration: none;">Microsoft Gray Systems Lab</a> and <a href="https://www.snowflake.com/en/" style="color: #4B2E83; text-decoration: none;">Snowflake</a>, and have been collaborating / collaborated closely with <a href="https://www.ranjaykrishna.com/" style="color: #4B2E83; text-decoration: none;">Ranjay Krishna</a>, <a href="https://interesaaat.github.io/" style="color: #4B2E83; text-decoration: none;">Matteo Interlandi</a>, <a href="https://www.linkedin.com/in/jiaqiy/" style="color: #4B2E83; text-decoration: none;">Jiaqi Yan</a>, and <a href="https://www.linkedin.com/in/alexander-ratner-038ba239/" style="color: #4B2E83; text-decoration: none;">Alex Ratner</a>.
 
-Before UW, I obtained my B.S. (Honors) in Computer Science at Fudan University, where I met my love, <a href="https://chenxi-yang.github.io/" style="color: #4B2E83; text-decoration: none;">Chenxi Yang</a>. I visited Peking University in 2017. In my younger years, I was a contestant in <a href="https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest" style="color: #4B2E83; text-decoration: none;">ACM-ICPC</a> and <a href="https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics" style="color: #4B2E83; text-decoration: none;">Olympiad in Informatics</a>.
+Before UW, I obtained my B.S. (Honors) in Computer Science at Fudan University. I visited Peking University in 2017. In my younger years, I was a contestant in <a href="https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest" style="color: #4B2E83; text-decoration: none;">ACM-ICPC</a> and <a href="https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics" style="color: #4B2E83; text-decoration: none;">Olympiad in Informatics</a>.
 
 My reasonably up-to-date CV is available <a href="https://dongheuw.github.io/files/DONGHE_CV.pdf" style="color: #4B2E83; text-decoration: none;">here</a>.
+
+Besides research, I enjoy skiing, tennis, hiking, snorkeling, surfing, and poker, all with my lovely girlfriend <a href="https://chenxi-yang.github.io/" style="color: #4B2E83; text-decoration: none;">Chenxi</a>.
 
 
 <!-- Default Statcounter code for My homepage
