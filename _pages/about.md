@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at Meta on the AI & Systems Codesign team.
+I am a research scientist at Meta on the AI & Systems Co-design team.
 
 I received my PhD in Computer Science from the <a href="https://www.cs.washington.edu/" style="color: #4B2E83; text-decoration: none;">Paul G. Allen School of Computer Science & Engineering</a> at the University of Washington, where I was very fortunate to be advised by <a href="https://www.cs.washington.edu/people/faculty/magda" style="color: #4B2E83; text-decoration: none;">Magdalena Balazinska</a>. 
 
