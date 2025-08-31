@@ -3,10 +3,15 @@ title: "Selected Publications"
 collection: publications
 permalink: /publication/publications
 ---
+<b>CENTS: A Flexible and Cost-Effective Framework for LLM-Based Table Understanding</b><br>
+<i style="font-size:95%">Guorui Xiao, <b>Dong He</b>, Jin Wang, Magdalena Balazinska</i><br>
+<span style="font-size:95%">Proceedings of the VLDB Endowment, 18(11), 2025</span><br>
+[<a href="https://www.vldb.org/pvldb/vol18/p4574-xiao.pdf" style="font-size:95%">Paper</a>] [<a href="https://github.com/grxiao137/CENTS" style="font-size:95%">Code</a>]<br>
+<br>
 <b>MaskSearch: Querying Image Masks at Scale</b><br>
 <i style="font-size:95%"><b>Dong He</b>, Jieyu Zhang, Maureen Daum, Alexander Ratner, Magdalena Balazinska</i><br>
-<span style="font-size:95%">2025 IEEE 41st International Conference on Data Engineering (ICDE '25) (to appear)</span><br>
-[<a href="https://dongheuw.github.io/files/masksearch-icde2025.pdf" style="font-size:95%">Preprint</a>] [<a href="https://db.cs.washington.edu/projects/neuralartifactdb/" style="font-size:95%">Website</a>] [<a href="https://github.com/uwdb/MaskSearch" style="font-size:95%">Code</a>]<br>
+<span style="font-size:95%">2025 IEEE 41st International Conference on Data Engineering (ICDE '25)</span><br>
+[<a href="https://dongheuw.github.io/files/masksearch-icde2025.pdf" style="font-size:95%">Paper</a>] [<a href="https://db.cs.washington.edu/projects/neuralartifactdb/" style="font-size:95%">Website</a>] [<a href="https://github.com/uwdb/MaskSearch" style="font-size:95%">Code</a>]<br>
 <br>
 <b>Task Me Anything</b><br>
 <i style="font-size:95%">Jieyu Zhang, Weikai Huang<sup>*</sup>, Zixian Ma<sup>*</sup>, Oscar Michel, <b>Dong He</b>, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna</i><br>
